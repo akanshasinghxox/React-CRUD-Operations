@@ -1,2 +1,2 @@
 # React-CRUD-Operations
-A react App that is caapble of performing all the basic Add, Delete,and Display operations.
+A react App that is capable of performing all the basic Add, Validate,and Display operations.
